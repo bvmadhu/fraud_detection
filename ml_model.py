@@ -9,3 +9,5 @@ def model2:
     
 def model3:
     print ("model3")
+
+print ("Model 2 is performing well")
